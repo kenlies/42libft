@@ -2,26 +2,40 @@
 
 ## A functions library written in C
 
-![books (1)](https://github.com/user-attachments/assets/74e4085e-b735-40e8-bdbb-0e4973e51e9f)
+![](media/library.jpg)
 
-It contains a lot of general purpose functions that our following programs will rely upon.
+![](media/testr.gif)
+
+Contains a lot of general purpose functions that our following programs will rely upon.
 This was our first project in **Hive Helsinki**.
-There isn't much visuals to show, because it is just a library.
-
-You can find the subject [here](https://github.com/kenlies/42libft/blob/main/en.subject.pdf).
-It gives an overview and contains the exact requirements for this project.
+The library has been heavily unit tested by my own and fellow students' tests and online testers. The particular one above in the gif can be found ***[here](https://github.com/Tripouille/libftTester)***!
 
 I actually completed this task in late **2022**, but I wanted to redo the commit history and make some minor changes.
 
-## Getting started
+## 📖 Topics
+  - Memory management
+  - String manipulation
+  - Data structures
+  - Code modularity
+  - Unit testing
+
+## 🛠️ Langs/Tools
+  - C
+  - Makefile
+
+## 🦉 Getting started
 
 If you want, for whatever reason, you can create the library file by:
 
-  1. Clone the repository
-  2. Cd into it
-  3. ```make``` or ```make bonus``` for the bonus section
+  1. ```git clone https://github.com/kenlies/42libft```
+  2. ```cd 42libft```
+  3. ```make``` **or** ```make bonus``` for the bonus section
 
-## Bonus section (optional)
+## 💸 Bonus section
 
 The bonus part dove into the realm of linked lists, and how to create, delete, traverse and manipulate them.
-This section was definitely worth doing. I think this helped me a lot throughout studies.
+This section was definitely worth doing. I think this helped me a lot throughout my studies.
+
+## 🔨 To improve
+
+Improvements on code modularity can be made. Also more unit testing is never a bad idea. Some variable names could be improved upon.
